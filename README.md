@@ -9,7 +9,7 @@ import os
 
 # Account settings: update with your credentials
 EMAIL_ACCOUNT = "78mshahrani@gmail.com"
-PASSWORD = "YOUR_PASSWORD_OR_APP_PASSWORD"  # Replace with your
+PASSWORD = "Noshnosh123123@x"  # Replace with your
 account password or app password if using two-factor authentication
 IMAP_SERVER = "imap.gmail.com"
 PHONE = "0562553391"  # This variable is not used for authentication
